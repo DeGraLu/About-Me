@@ -1,0 +1,17 @@
+
+
+body{
+	text-align:center;
+	padding:50px 30px;
+	background-color:#FAE6FF;
+	color:#009900
+	display:block;
+	margin:8px;
+	font-family: Monaco,Papyrus;
+}
+
+img{
+	max-width: 50%;
+	border:7px solid green;
+	box-shadow:0 0 2px 1px #7A29CC;
+}
